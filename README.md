@@ -1,15 +1,47 @@
-<h1 align="center">Hi 👋, I'm Puneet Shankar</h1>
-<h3 align="center">AI/ML Enthusiast on a journey to master Python, logic, and real-world problem solving</h3>
+<!-- ======================= HEADER ======================= -->
 
-- 🌱 I’m currently learning **python**
+<div align="center">
 
-- ⚡ Fun fact **I am lazy engineer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Puneet%20Shankar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/puneetshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/puneetshankar" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://github.com/CodeWhizPuneet">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+AI+%2B+Machine+Learning;Building+with+Python;Exploring+Data+%26+Algorithms;Turning+Ideas+into+Code;Always+Learning+Something+New" alt="Typing SVG" />
+</a>
 
+<br><br>
+
+<a href="https://github.com/CodeWhizPuneet">
+  <img src="https://komarev.com/ghpvc/?username=CodeWhizPuneet&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/CodeWhizPuneet?tab=followers">
+  <img src="https://img.shields.io/github/followers/CodeWhizPuneet?label=FOLLOWERS&style=for-the-badge&color=0f172a" />
+</a>
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 🧠 `whoami`
+
+```python
+class PuneetShankar:
+
+    role = "Computer Science Student"
+    focus = ["Artificial Intelligence", "Machine Learning", "Python"]
+
+    currently_learning = [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "SQL",
+        "Data Structures & Algorithms"
+    ]
+
+    mindset = "Learn → Build → Break → Fix → Repeat"
+
+    goal = "Turn knowledge into useful real-world solutions"
