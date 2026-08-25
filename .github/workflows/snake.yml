@@ -1,9 +1,9 @@
-```yaml
 name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs automatically at midnight UTC every day
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 permissions:
@@ -14,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,4 +33,3 @@ jobs:
           commit_message: Update contribution snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
