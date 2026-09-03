@@ -111,22 +111,6 @@ My current focus is on strengthening my fundamentals, building real-world projec
 
 </div>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWhizPuneet&amp;bg_color=0f172a&amp;color=38bdf8&amp;line=60a5fa&amp;point=ffffff&amp;area=true&amp;hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
